@@ -13,10 +13,12 @@ Command 1: git clone https://github.com/Ambika2024/mtm6302-emoji-Ambika2024.git 
  Let us now code style.css
 ![Screenshot 2024-06-07 173240](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/d586a6b5-1336-4478-a313-948753924794)
 now we will be doing script.js file
-![Screenshot 2024-06-07 173346](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/0cf58130-5f1b-454d-95e1-099d8a585ffa)
+![Screenshot 2024-06-07 180122](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/bb7c7799-dd85-4715-b8b7-59dc5f80db0f)
+
 output:
-![Screenshot 2024-06-07 173521](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/08446f3e-1cf6-421e-83e5-48043e693b06)
-![Screenshot 2024-06-07 173539](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/58e99e01-4f0d-4276-9dc1-3755feb81c36)
+![Screenshot 2024-06-07 180031](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/d68a7cec-6439-4dad-9e5a-2d0b87255005)
+![Screenshot 2024-06-07 180045](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/1be5d5ef-f694-426c-a5a6-48acd1c8cf24)
+![Screenshot 2024-06-07 180054](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/fc870a76-1fe3-4dc0-b3bc-193f7123d0d6)
 Now to push the files back to the repo.
 command 7 : git add . command 8: git commit -m "Completes the assignment" command 9: git push origin main
 check your github now.(It should have all the files).
