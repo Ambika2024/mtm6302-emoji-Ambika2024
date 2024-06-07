@@ -1,7 +1,7 @@
 # mtm6302-emoji-Ambika2024
 Open your Floder where you want to clone and open git bash in that folder. 
 Command 1: git clone https://github.com/Ambika2024/mtm6302-emoji-Ambika2024.git command 
-2: use cd command to get into the folder eg cd mtm6302-emoji-Suragskp command 
+2: use cd command to get into the folder eg cd mtm6302-emoji-Ambika2024 command 
 3: use "ls" command to check all the files.(you should get readme.md file) command 
 4: use "touch index.html style.css script.js" (to make new file.) command 
 5 use "ls" command to check all the files.(you should get readme.md, index.html style.css script.js files) command
@@ -20,3 +20,4 @@ output:
 Now to push the files back to the repo.
 command 7 : git add . command 8: git commit -m "Completes the assignment" command 9: git push origin main
 check your github now.(It should have all the files).
+![Screenshot 2024-06-07 173731](https://github.com/Ambika2024/mtm6302-emoji-Ambika2024/assets/145181223/bc031d4b-3a6f-4ee1-9eef-bfef62ecb570)
